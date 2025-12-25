@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カウンティング・スターズ",
+  "base_artist": "OneRepublic",
+  "createdAt": "2025-12-25T10:57:03.861708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カウンティング・スターズ",
+      "artist": "OneRepublic",
+      "has_synced": true,
+      "path": "select/01_カウンティング・スターズ_OneRepublic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "has_synced": false,
+      "path": "select/pl_01_Counting_Stars_OneRepublic.txt"
+    }
+  ]
+}
